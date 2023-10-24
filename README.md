@@ -4,6 +4,11 @@
 
 Text Translator App is a web application that allows users to translate text from one language to another with ease. It is built using the Rapid API Text Translator and features a user-friendly interface created with ReactJS and Material-UI.
 
+[Preview the Demo](https://text-translator-hrgr9hmxd-omkar01111.vercel.app/)
+
+
+![Text-Translator-App](https://github.com/omkar01111/Text-Translator-App/assets/92498781/3d6bfb8e-d612-46b7-b374-6ea0ab2a2a95)
+
 ## Features
 
 - **Seamless Translation:** Translate text from one language to another quickly and accurately using the Rapid API Text Translator.
